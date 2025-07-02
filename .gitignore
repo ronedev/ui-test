@@ -2,7 +2,6 @@ node_modules
 dist
 build
 coverage
-.storybook
 .vscode
 .env
 .env.local
